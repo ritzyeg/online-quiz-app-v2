@@ -60,8 +60,20 @@ This handles the logic for the quiz, including showing questions and moving to t
 
 
 
+## SCREENSHOTS
 
+![1](https://github.com/user-attachments/assets/f142930a-a7d1-4ebd-a044-3a3f010a380d)
 
+![2](https://github.com/user-attachments/assets/aaacf23c-6e6f-409a-8704-ae16b924075a)
 
+![3](https://github.com/user-attachments/assets/72f3d030-1b2d-4b9c-8f32-b41720a4f36c)
 
+![4](https://github.com/user-attachments/assets/fb724ab9-c4f8-4174-9e5b-39683abd1495)
+
+## TEAM CONTRIBUTION
+
+1. RITZY ELSA GEORGE - HTML & CSS
+2. RIYA MARIAM SANJIV - JavaScript
+3. SREELAKSHMI M GOPAKUMAR - JavaScript
+   
 
